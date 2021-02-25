@@ -1,0 +1,7 @@
+{
+  "name": "com.unity.uitemplates",
+  "version": "1.0.0",
+  "displayName": "UI Templates",
+  "description": "This is an example package",
+  "type": "template"
+}
